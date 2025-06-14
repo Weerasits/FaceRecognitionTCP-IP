@@ -1,3 +1,3 @@
 # FaceRecognitionTCP-IP
 
-For BRICS Skill Thailand INS KMITL Team from KMITL
+For BRICS Skills Thailand INS KMITL Team from KMITL
